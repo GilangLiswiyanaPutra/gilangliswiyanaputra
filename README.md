@@ -38,7 +38,7 @@
   </a>
   </a>
   <a href="https://www.tiktok.com/@chloeeeaubert" target="_blank">
-     <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" height="100" target="_blank" /> 
+     <img src="https://img.shields.io/static/v1?message=Tiktok&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge target="_blank" /> 
   </a>
 </div>
 
