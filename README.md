@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/Z03B5Jr05LMAAAAi/tohru-dragon-maid.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/nc7HAIaJ3-IAAAAi/gojo-yuji-whisper-transparent-gojo.gif"  />
 
 ###
 
