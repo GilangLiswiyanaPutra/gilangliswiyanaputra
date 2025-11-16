@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  height="30" alt="tailwind logo" />
 </div>
 
-###
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/gilang-liswiyana-putra/" target="_blank">
@@ -37,8 +36,12 @@
   <a href="https://www.instagram.com/palswyn" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" target="_blank" /> 
   </a>
+  </a>
+  <a href="https://www.tiktok.com/@chloeeeaubert" target="_blank">
+     <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" target="_blank" /> 
+  </a>
 </div>
-###
+
 
 <br clear="both">
 
