@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=gilangliswiyanaputra)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gilangliswiyanaputra&theme=dark-minimalist" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilangliswiyanaputra&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
