@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/nc7HAIaJ3-IAAAAC/gojo-yuji-whisper-transparent-gojo.gif"  />
+<img align="right" height="150" src="https://64.media.tumblr.com/c7673328395383369fd09365b45e503f/94d78d33c850a0db-8b/s1280x1920/99d085ab41c1f328a77e3727cfccec8b684a1272.gifv"  />
 
 ###
 
