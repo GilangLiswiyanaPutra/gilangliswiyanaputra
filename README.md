@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gilangliswiyanaputra&theme=dark-minimalist" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=gilangliswiyanaputra&show_icons=true&theme=dark&hide_border=true" alt="My GitHub Stats" />
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilangliswiyanaputra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
